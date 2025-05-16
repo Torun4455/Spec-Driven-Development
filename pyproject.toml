@@ -1,0 +1,5 @@
+[project]
+name = "spec-driven-development"
+version = "0.1.0"
+description = "A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for Claude Code, Cursor, Copilot, Windsurf, and Aider."
+requires-python = ">=3.10"
